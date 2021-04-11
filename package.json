@@ -1,0 +1,22 @@
+{
+  "name": "divinesoul-api",
+  "version": "1.0.0",
+  "description": "Backend / API for divinesoul",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiTCaastle/divinesoul-api.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Benjamin Trounson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BiTCaastle/divinesoul-api/issues"
+  },
+  "homepage": "https://github.com/BiTCaastle/divinesoul-api#readme"
+}
